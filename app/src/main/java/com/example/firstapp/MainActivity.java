@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         text.setText("WELCOME TO MYAPP!");
         text.setTextSize(16);
         switch1.setVisibility(View.VISIBLE);
-switch1.
+
 
     }
 }
